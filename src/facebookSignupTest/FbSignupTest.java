@@ -1,5 +1,5 @@
 package facebookSignupTest;
 
-public class FbSiguoTest {
+public class FbSignupTest {
 
 }
